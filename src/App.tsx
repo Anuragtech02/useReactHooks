@@ -1,11 +1,9 @@
 import "./App.scss";
-
+import Check from "./customHooks/useFetch/Check"
 const App = () => {
-  return (
-    <div className="App">
-      <h1>useReactHooks</h1>
-    </div>
-  );
+  return <div className="App">
+    <Check />
+  </div>;
 };
 
 export default App;
