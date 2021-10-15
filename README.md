@@ -22,7 +22,7 @@ useReactHooks is a curated list of custom react hooks that will benefit people i
 
 ### Git and Github
 
-Here are some instructions on how to setup git. [![youtube-git](https://img.shields.io/badge/-Youtube-red?style=plastic&logo=youtube)](https://www.youtube.com/watch?v=uaeKhfhYE0U)
+Here are some instructions on how to setup git. [![youtube-git](https://img.shields.io/badge/-Youtube-red?style=plastic&logo=youtube)](https://youtu.be/apGV9Kg7ics)
 
 ### React (Typescript)
 
