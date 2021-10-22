@@ -12,7 +12,7 @@ A repository for custom React Hooks.
   - [Git & Github](#git-and-github)
   - [React (Typescript)](#react-typescript)
 - [How to contribute?](#how-to-contribute)
-- [Contributors](#contributors)
+- [Contributors](#our-awesome-contributors)
 
 ## What is useReactHooks
 
